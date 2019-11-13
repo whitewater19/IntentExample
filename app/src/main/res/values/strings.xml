@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit(內建) Intent Example</string>
+    <string name="phone_number">打電話</string>
+    <string name="call">Call</string>
+    <string name="call_logs">來電記錄</string>
+    <string name="contact">聯絡人清單</string>
+    <string name="web_browser">呼叫瀏覽器</string>
+    <string name="gallery">打開相本</string>
+    <string name="camera">呼叫相機</string>
+    <string name="alarm">呼叫鬧鐘</string>
+</resources>
